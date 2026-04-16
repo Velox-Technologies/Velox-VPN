@@ -1,0 +1,28 @@
+{
+    "ru": {
+        "mine_mode": "МАЙНИНГ",
+        "vpn_mode": "VPN РЕЖИМ",
+        "pause_btn": "ПАУЗА",
+        "shared": "Раздано трафика: {:.2f} MB",
+        "earned": "{:.4f} VLX",
+        "status_mine": "● СТАТУС: МАЙНИНГ АКТИВЕН",
+        "status_pause": "● СТАТУС: ПАУЗА",
+        "status_searching": "● ПОИСК УЗЛОВ...",
+        "conn_to": "● ПОДКЛЮЧЕНО К: {}",
+        "no_nodes": "Нет доступных узлов!",
+        "fix_done": "Настройки сети сброшены. Браузеры должны заработать."
+    },
+    "en": {
+        "mine_mode": "MINING",
+        "vpn_mode": "VPN MODE",
+        "pause_btn": "PAUSE",
+        "shared": "Data Shared: {:.2f} MB",
+        "earned": "{:.4f} VLX",
+        "status_mine": "● STATUS: MINING ACTIVE",
+        "status_pause": "● STATUS: PAUSED",
+        "status_searching": "● SEARCHING...",
+        "conn_to": "● CONNECTED TO: {}",
+        "no_nodes": "No nodes available!",
+        "fix_done": "Network settings reset. Browsers should work now."
+    }
+}
